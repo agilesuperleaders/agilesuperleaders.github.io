@@ -1,0 +1,43 @@
+.container{
+  padding-bottom: 20px;
+}
+
+.thumb {
+    padding: 2px; /* Some padding */
+    width: 100%; /* Set a small width */
+    min-height: 150px;
+}
+
+.bordered{
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+}
+
+.nopadding{
+  padding: 0 !important;
+}
+
+.left-text{
+  text-align: right;
+}
+
+.right-text{
+  text-align: left;
+}
+
+.title{
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 2em;
+  padding-bottom: 20px;
+}
+
+.intro{
+  text-align: justify;
+  text-justify: inter-word;
+  padding-bottom: 20px;
+}
+
+.Footer{
+  padding: 50px;
+  text-align: center;
+}
